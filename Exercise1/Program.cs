@@ -6,6 +6,8 @@ namespace Exercise1
     {
         static void Main(string[] args)
         {
+            //Writes the users name 10 times, 9 times, 8 times, 7 times then 6 times
+
             Console.Write("Enter a name: ");
             string name = Console.ReadLine();
             

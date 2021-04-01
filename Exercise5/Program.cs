@@ -6,6 +6,15 @@ namespace Exercise5
     {
         static void Main(string[] args)
         {
+            //User enters a number, console outputs 'x' from 1 to the number entered on a new line sequentially
+            //e.g output, user entered 5
+            //      x
+            //      xx
+            //      xxx
+            //      xxxx
+            //      xxxxx
+
+
             Console.Write("Enter a number: ");
             int input = int.Parse(Console.ReadLine());
 
