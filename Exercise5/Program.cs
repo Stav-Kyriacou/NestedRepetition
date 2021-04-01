@@ -6,20 +6,23 @@ namespace Exercise5
     {
         static void Main(string[] args)
         {
+            Console.Write("Enter a number: ");
+            int input = int.Parse(Console.ReadLine());
+
             int counter = 0;
 
-            while (counter < 5)
+            while (counter < input)
             {
-                int counter2 = 0;
+                counter++;
+                int counter2 = counter;
 
-                while (counter2 < 5)
+                while ((input - counter2) < input)
                 {
                     Console.Write("x");
-                    counter2++;
+                    counter2--;
                 }
                 
                 Console.WriteLine();
-                counter++;
             }
         }
     }
