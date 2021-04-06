@@ -1,0 +1,16 @@
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.exe
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.deps.json
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.json
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.runtimeconfig.dev.json
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.dll
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\ref\Exercise6.dll
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\bin\Debug\net5.0\Exercise6.pdb
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.csprojAssemblyReference.cache
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfoInputs.cache
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.AssemblyInfo.cs
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.csproj.CoreCompileInputs.cache
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.dll
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\ref\Exercise6.dll
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.pdb
+F:\VSProjects\Programming\Week5\NestedRepetition\Exercise6\obj\Debug\net5.0\Exercise6.genruntimeconfig.cache
