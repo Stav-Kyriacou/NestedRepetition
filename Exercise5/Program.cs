@@ -15,7 +15,7 @@ namespace Exercise5
             //      xxxxx
 
 
-            Console.Write("Enter a number: ");
+            Console.Write("How many lines? ");
             int input = int.Parse(Console.ReadLine());
 
             int counter = 0;
