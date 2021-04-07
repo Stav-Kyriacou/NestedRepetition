@@ -6,15 +6,17 @@ namespace Exercise7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Reverse Pyramid Drawing");
+            Console.WriteLine("Pyramid Drawing");
             Console.Write("How many lines should it be? ");
 
             int rows = int.Parse(Console.ReadLine());               //ask user how many rows to draw
-            int stars = (rows * 2) - 1;
+            int stars = 1;
+            int spaces = rows - 1;
 
             for (int i = 0; i < rows; i++)
             {
-                for (int j = i; j >= 1; j--)                        //draws the spaces
+
+                for (int j = i; j < spaces; j++)                    //draws the spaces
                 {
                     Console.Write(" ");
                 }           
@@ -27,7 +29,8 @@ namespace Exercise7
 
                 Console.WriteLine();
 
-                stars -= 2;
+                stars += 2;
+            }
         }
     }
 }
