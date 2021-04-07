@@ -6,6 +6,7 @@ namespace Exercise7
     {
         static void Main(string[] args)
         {
+            //Exercise 3.2 and 3.3
             Console.WriteLine("Pyramid Drawing");
             Console.Write("How many lines should it be? ");
 
