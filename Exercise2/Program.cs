@@ -6,7 +6,8 @@ namespace Exercise2
     {
         static void Main(string[] args)
         {
-            //User enters their name, it is written on the same line 10 times, which is repeated 10 times on different lines
+            //Exercise 1.1
+            //A program receives a user's name and prints it 10 times on the same line. This process happens 10 times.
 
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
