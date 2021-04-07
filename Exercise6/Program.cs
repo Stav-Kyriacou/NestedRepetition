@@ -6,17 +6,28 @@ namespace Exercise6
     {
         static void Main(string[] args)
         {
-            for (int i = 0; i < 11; i++)
-            {
-                if (i % 2 == 0)
-                {
-                    for (int j = i; j < 11; j++)
-                    {
-                        Console.Write("*");
-                    }
+            Console.WriteLine("Reverse Pyramid Drawing");
+            Console.Write("How many lines should it be? ");
 
-                    Console.WriteLine();
+            int rows = int.Parse(Console.ReadLine());               //ask user how many rows to draw
+            int stars = (rows * 2) - 1;
+
+            for (int i = 0; i < rows; i++)
+            {
+                for (int j = i; j >= 1; j--)                        //draws the spaces
+                {
+                    Console.Write(" ");
+                }           
+
+                for (int k = 0; k < stars; k++)                     //draws the x's
+                {
+                    Console.Write("x");
+
                 }
+
+                Console.WriteLine();
+
+                stars -= 2;
             }
         }
     }
