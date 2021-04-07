@@ -6,6 +6,7 @@ namespace Exercise5
     {
         static void Main(string[] args)
         {
+            //Exercise 2.3 and Exercise 2.4
             //User enters a number, console outputs 'x' from 1 to the number entered on a new line sequentially
             //e.g output, user entered 5
             //      x
