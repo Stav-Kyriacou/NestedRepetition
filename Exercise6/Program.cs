@@ -6,6 +6,8 @@ namespace Exercise6
     {
         static void Main(string[] args)
         {
+            //Exercise 3.1 and 3.3
+
             Console.WriteLine("Reverse Pyramid Drawing");
             Console.Write("How many lines should it be? ");
 
