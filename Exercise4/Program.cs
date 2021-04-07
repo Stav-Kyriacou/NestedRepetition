@@ -16,7 +16,7 @@ namespace Exercise4
 
 
 
-            Console.Write("Enter a number: ");
+            Console.Write("Enter starting number of x's: ");
             int input = int.Parse(Console.ReadLine());
 
             int counter = 0;
