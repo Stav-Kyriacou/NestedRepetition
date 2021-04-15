@@ -25,7 +25,6 @@ namespace Exercise7
                 for (int k = 0; k < stars; k++)                     //draws the x's
                 {
                     Console.Write("x");
-
                 }
 
                 Console.WriteLine();
